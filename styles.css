@@ -6,6 +6,11 @@ body{
     background-color: skyblue;
 }
 
+#card{
+    width: 400px;
+    height: 600px;
+}
+
 header{
     color: #2D333B;
 }
