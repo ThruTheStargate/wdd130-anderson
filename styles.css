@@ -3,12 +3,14 @@ Created 7.10.25 by Kaia Aydelotte
 For WDD130 Project final. Anderson's website*/
 
 body{
-    background-color: skyblue;
+    background-color: #b8bfc5
 }
 
-#card{
-    width: 400px;
-    height: 600px;
+.card{
+    width: 900px;
+    margin: auto;
+    background-color: #2D333B;
+    color: #E0E0E0;
 }
 
 header{
@@ -20,11 +22,18 @@ nav{
     color: #E0E0E0;
 }
 
+/*
 main{
     background-color: #2D333B;
     color: #E0E0E0;
 }
+*/
 
 section{
     background-color: #4A5560
+}
+
+footer{
+    background-color: #1F4A6F;
+    color: #E0E0E0;
 }
