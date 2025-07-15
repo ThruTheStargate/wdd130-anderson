@@ -37,3 +37,22 @@ footer{
     background-color: #1F4A6F;
     color: #E0E0E0;
 }
+
+
+
+/* The CSS for the history page */
+#h-main {
+    background-color: #2D333B;
+}
+.h-card {
+    text-align: center;
+    padding: 15px;
+    width: 90%;
+    margin: 25px auto;
+}
+.h-card img {
+    height: 18em;
+    float: left;
+    padding-top: 20px;
+    margin-right: 15px;
+}
